@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h2 align="center">Website for Janja Hair Salon</h2>
+  <h2 align="center">Test website design for Janja Hair Salon</h2>
 
 This website is fully responsive website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
